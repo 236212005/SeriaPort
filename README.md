@@ -1,3 +1,7 @@
+**作用**
+利用JNI调用C++与串口交互
+<br>
+
 **SerialPort**
 生成dll文件时配置：
 - 配置配置管理器（Release+X64）
